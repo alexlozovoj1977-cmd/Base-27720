@@ -40,7 +40,7 @@ Standard binary DDS systems (e.g., 16-bit or 32-bit matrices) cannot perfectly g
 * **Phase-Continuous Switching:** Frequency shifts occur atomically without resetting the phase accumulator. This guarantees no phase jumps, tearing, or clicking artifacts on the oscilloscope, making it ideal for Phase-Locked Loops (PLL) and FM modulation.
 
 ## 📚 References
-* **Scientific Paper:** [The Universal Harmonic Matrix: Evolution of DDS Phase Accumulators](insert-your-link-here)
+* **Scientific Paper:** [The Universal Harmonic Matrix: Evolution of DDS Phase Accumulators](https://zenodo.org/records/18990491)
 * **Theoretical foundation of the 11th harmonic:** Ruelle, D., & Takens, F. (1971). *On the nature of turbulence*. Communications in Mathematical Physics, 20(3), 167-192.
 
 ## 📄 License
